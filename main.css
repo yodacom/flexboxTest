@@ -1,0 +1,46 @@
+
+
+.container {
+     display: flex;
+     flex-flow: row wrap;
+     margin: 10px;
+}
+
+.item {
+  background-color: #f3f2ef;
+     border-radius: 3px;
+     width: 200px;
+     height: 100px;
+     margin: 10px;
+}
+/*.header {
+
+}
+
+.form {
+
+}
+
+.main {
+
+}
+
+.section {
+
+}
+
+.searchResults {
+
+}
+
+.videoContainer {
+
+}
+
+.videoThumb {
+
+}
+
+.videoText {
+
+}*/
